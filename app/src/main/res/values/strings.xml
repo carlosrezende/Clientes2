@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Clientes</string>
+    <string name="msg_cad_cliente">CADASTRAR CLIENTES</string>
+    <string name="msg_nome">NOME</string>
+    <string name="msg_endereco">ENDEREÇO</string>
+    <string name="msg_telefone">TELEFONE</string>
+    <string name="msg_email">EMAIL</string>
+    <string name="msg_cadastrar_cliente">CADASTRAR</string>
+    <string name="msg_id">ID</string>
+    <string name="msg_ver_todos">VER TODOS CLIENTES</string>
+    <string name="msg_exemplo_telefone">+5579911774466</string>
+    <string name="msg_exemplo_email">boss@like.com</string>
+    <string name="msg_exemplo_endereco">Wall Street nº 77</string>
+    <string name="msg_exemplo_nome">Silvio Santos</string>
+    <string name="msg_atualizar_cliente">ATUALIZAR CLIENTES</string>
+    <string name="msg_remover_cliente">REMOVER CLIENTES</string>
+    <string name="msg_cli_removido_com_sucesso">O CLIENTE FOI REMOVIDO COM SUCESSO!</string>
+    <string name="msg_selecione_um_cliente">SELECIONE UM CLIENTE PARA ALTERÁ-LO</string>
+    <string name="msg_atualizar_dados">ATUALIZAR DADOS</string>
+    <string name="msg_cliente_cadastrado_com_sucesso">CLIENTE CADASTRADO COM SUCESSO!</string>
+    <string name="msg_houve_erro_cadastrar_cliente">HOUVE UM ERRO AO CADASTRAR O CLIENTE.</string>
+    <string name="msg_cliente_atualizado_sucesso">CLIENTE ATUALIZADO COM SUCESSO!</string>
+    <string name="msg_houve_erro_atualizar_cliente">HOUVE UM ERRO AO ATUALIZAR O CLIENTE.</string>
+    <string name="msg_cliente_removido_sucesso">CLIENTE REMOVIDO COM SUCESSO!</string>
+    <string name="msg_houve_erro_remover_cliente">HOUVE UM ERRO AO REMOVER O CLIENTE.</string>
+    <string name="msg_todos_clientes_removidos_sucesso">TODOS CLIENTES FORAM REMOVIDOS COM SUCESSO!</string>
+    <string name="msg_houve_erro_remover_todos_clientes">HOUVE UM ERRO AO REMOVER OS CLIENTES.</string>
+    <string name="msg_gerenciador_de_clientes">Gerenciador de Clientes</string>
+    <string name="msg_cadastrar_novo_cliente">Cadastrar novo Cliente</string>
+    <string name="msg_todos_clientes">Todos clientes</string>
+    <string name="msg_remover_clientes">Remover clientes</string>
+    <string name="msg_alterar_clientes">Alterar Clientes</string>
+</resources>
